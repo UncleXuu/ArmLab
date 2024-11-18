@@ -2,10 +2,11 @@
 Armlab is a course project for UMich ROB550-Robotic Systems Lab. In this project, an RGB-D camera was used to detect the size, color, position, and height of blocks. The project also involved implementing both forward and inverse kinematics for a 5DOF robotic arm, which was then used to perform a series of tasks. This project achieved first place in the final competition.
 
 ![Stacking](/media/stacking.gif)
+
 *Stacking in rainbow order*
 
 ![Shooting](/media/shooting.gif)
-<!-- <img src="/media/shooting.gif" alt="Shooting" width="100" height="100"> -->
+
 *Shooting a basket*
 
 ## Computer Vision
